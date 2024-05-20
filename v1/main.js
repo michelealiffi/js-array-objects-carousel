@@ -30,8 +30,8 @@ const images = [
 
 console.log(images);
 
-const prev = document.querySelector('prev');
-const next = document.querySelector('next');
+const prev = document.querySelector('.prev');
+const next = document.querySelector('.next');
 
 const image = document.querySelector('.item img');
 const title = document.querySelector('.content h2');
